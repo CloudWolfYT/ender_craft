@@ -1,0 +1,4 @@
+scoreboard objectives remove cw_ender_open
+scoreboard objectives remove cw_ender_craft
+scoreboard objectives remove cw_ender_craft1
+scoreboard objectives remove cw_ender_drop

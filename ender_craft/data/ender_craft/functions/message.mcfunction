@@ -1,0 +1,1 @@
+tellraw @a[gamemode=creative] {"text":"[ Ender Crafter V1.0 ] \u27a4","color":"aqua","clickEvent":{"action":"run_command","value":"/function ender_craft:menu/main"},"hoverEvent":{"action":"show_text","value":"Custom Crafting as it should be!"}}

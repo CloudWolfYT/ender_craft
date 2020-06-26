@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XXX",
+    "X#X",
+    "XXX"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:coal"
+    },
+    "X": {
+      "item": "minecraft:porkchop"
+    }
+  },
+  "result": {
+    "item": "minecraft:cooked_porkchop",
+    "count": 8,
+    "nbt": "{display:{Name:'{\"text\":\"BACON\"}'}}"
+  }
+}

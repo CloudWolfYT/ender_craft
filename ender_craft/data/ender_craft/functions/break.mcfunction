@@ -1,0 +1,1 @@
+execute as @e[tag=ender_craft,sort=nearest,limit=1] at @s run function ender_craft:editable_break
