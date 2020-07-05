@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "planks",
+  "ingredients": [
+    {
+      "item": "minecraft:gilded_blackstone"
+    }
+  ],
+  "result": {
+    "item": "minecraft:netherite_ingot",
+    "count": 4,
+    "nbt": "{display:{Name:'{\"text\":\"hi\"}'}}"
+  }
+}
